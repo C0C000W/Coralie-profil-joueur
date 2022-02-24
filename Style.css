@@ -1,3 +1,40 @@
-#page {
-	background-color:#F7E81A;
+#icon {
+	align-items: left;
 }
+
+#pseudo{
+	background-color:#7FFFD4;
+	height:5em; 
+	width:7em
+}
+#rang{
+	background-color:#DC143C;
+	height:5em; 
+	width:7em;
+}
+
+#niveau{
+	background-color:#9400D3;
+	height:5em; 
+	width:7em;
+}
+
+#logopromo{
+	text-align: right;
+	height:5em; 
+	width:7em;
+}
+
+#win{
+	background-color:#7B68EE;
+	height:5em; 
+	width:7em;
+}
+
+#lose{
+	background-color:#DA70D6;
+	height:5em; 
+	width:7em;
+}
+
+
