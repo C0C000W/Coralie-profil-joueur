@@ -1,7 +1,14 @@
-#icon {
-	align-items: left;
+#choixjoueur{
+
 }
 
+#boutonentrer{
+
+}
+
+#icon{
+	
+}
 #pseudo{
 	background-color:#7FFFD4;
 	height:5em; 
@@ -31,7 +38,7 @@
 	width:7em;
 }
 
-#lose{
+#loose{
 	background-color:#DA70D6;
 	height:5em; 
 	width:7em;
