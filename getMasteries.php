@@ -1,6 +1,6 @@
 <?php
 
-	$response = file_get_contents("https://euw1.api.riotgames.com/lol/champion-mastery/v4/champion-masteries/by-summoner/".$_GET['id']."?api_key=RGAPI-652e41fa-935f-4893-8e67-09b715dfc91c");
+	$response = file_get_contents("https://euw1.api.riotgames.com/lol/champion-mastery/v4/champion-masteries/by-summoner/".$_GET['id']."?api_key=RGAPI-01a5cf7e-c18a-40ca-86ad-53c0da4f88d1");
 
 
 if ($response === FALSE){
